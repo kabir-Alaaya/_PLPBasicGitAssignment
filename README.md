@@ -1,1 +1,2 @@
-# _PLPBasicGitAssignment
+## _PLPBasicGitAssignment
+This is my first repository at https://plpacademy.powerlearnproject.org
